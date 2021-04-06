@@ -1,0 +1,55 @@
+{
+  "poltekpos.apa_itu_potekpos": {
+    "name": "poltekpos.apa_itu_potekpos",
+    "category": "pengenalan_poltekpos",
+    "locale": "id",
+    "patterns": [
+      "apa itu politeknik pos indonesia",
+      "politeknik pos indonesia adalah",
+      "penjelasan politeknik pos indonesia",
+      "definisi politeknik pos indonesia",
+      "politeknik pos indonesia itu apa"
+      ],
+    "responses": [
+      "poltekpos adalah kampus..",
+      "poltekpos itu merupakan..",
+      "poltekpos itu adalah.."
+      ]
+  },
+  "poltekpos.prodi_di_poltekpos": {
+    "name": "poltekpos.prodi_di_poltekpos",
+    "category": "pengenalan_poltekpos",
+    "locale": "id",
+    "patterns": [
+      "jurusan apa saja yang ada di politeknik pos indonesia",
+      "jurusan di politeknik pos indonesia",
+      "program studi di politeknik pos indonesia",
+      "apa saja jurusan di politeknik pos indonesia",
+      "program studi apa saja yang ada di politeknik pos indonesia",
+      "apa saja program studi di politeknik pos indonesia",
+      "program studi di politeknik pos indonesia apa saja",
+      "jurusan di politeknik pos indonesia apa saja"
+      ],
+    "responses": [
+      "prodi di poltekpos ialah...",
+      "jurusan di poltekpos diantaranya.."
+      ]
+  },
+  "poltekpos.lokasi_poltekpos": {
+    "name": "poltekpos.lokasi_poltekpos",
+    "category": "pengenalan_poltekpos",
+    "locale": "id",
+    "patterns": [
+      "dimana lokasi politeknik pos indonesia",
+      "dimana letak politeknik pos indonesia",
+      "politeknik pos indonesia ada dimana",
+      "lokasi politeknik pos indonesia",
+      "letak politeknik pos indoneisa",
+      "tempat politeknik pos indonesia",
+      "dimana tempat politeknik pos indonesia"
+      ],
+    "responses": [
+      "poltekpos ada di ...."
+      ]
+  }
+}
