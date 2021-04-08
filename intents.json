@@ -8,6 +8,7 @@
       "politeknik pos indonesia adalah",
       "penjelasan politeknik pos indonesia",
       "definisi politeknik pos indonesia",
+      "politeknik pos indonesia merupakan",
       "politeknik pos indonesia itu apa"
       ],
     "responses": [
@@ -72,11 +73,11 @@
     "category": "pujian",
     "locale": "id",
     "patterns": [
-      "pintar",
-      "cerdas",
-      "cantik",
-      "ganteng",
-      "suka kamu"
+      "kamu pintar",
+      "anda cerdas",
+      "kamu cantik",
+      "anda ganteng",
+      "aku suka kamu"
       ],
     "responses": [
       "aku tau itu",
@@ -115,7 +116,8 @@
     "patterns": [
       "gombalin aku",
       "baperin aku",
-      "genit",
+      "genit sekali",
+      "genit banget",
       "gombal"
       ],
     "responses": [
