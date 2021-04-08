@@ -51,5 +51,177 @@
     "responses": [
       "poltekpos ada di ...."
       ]
+  },
+
+
+  "general.terima_kasih": {
+    "name": "general.terima_kasih",
+    "category": "terima_kasih",
+    "locale": "id",
+    "patterns": [
+      "terima kasih",
+      "terimakasih"
+      ],
+    "responses": [
+      "sama-sama",
+      "iya, sama-sama"
+      ]
+  },
+  "general.pujian": {
+    "name": "general.pujian",
+    "category": "pujian",
+    "locale": "id",
+    "patterns": [
+      "kamu pintar",
+      "anda cerdas",
+      "kamu cantik",
+      "anda ganteng",
+      "aku suka kamu"
+      ],
+    "responses": [
+      "aku tau itu",
+      "lah emang",
+      "kamu juga",
+      "terima kasih"
+      ]
+  },
+  "general.ejekan": {
+    "name": "general.ejekan",
+    "category": "ejekan",
+    "locale": "id",
+    "patterns": [
+      "kamu bau",
+      "anda idiot",
+      "kamu jelek",
+      "anda tolol",
+      "kamu bodoh",
+      "anda bego",
+      "kamu bangsat",
+      "anda koplok",
+      "kamu gila",
+      "dih bawa perasaan",
+      "dih baper"
+      ],
+    "responses": [
+      "ngaca bos",
+      "sok iye lo",
+      "jahat banget"
+      ]
+  },
+  "general.gombal": {
+    "name": "general.gombal",
+    "category": "gombal",
+    "locale": "id",
+    "patterns": [
+      "gombalin aku",
+      "baperin aku",
+      "kamu genit",
+      "kamu gombal"
+      ],
+    "responses": [
+      "lagi ngerjain tugas, tp pikirannya tetap di kamu",
+      "titip salam utk orang tua mu, dari aku yg siap melanjutkan kasih sayang mereka kepadamu",
+      "laut akan aku arungi, gunung tertinggi akan aku daki, jalan lika-liku pun akan aku lewati kalo itu hanya untuk menghampirimu",
+      "ehh, tanganmu kok kelihatannya berat sih, sini coba aku pegangin"
+      ]
+  },
+  "general.semangat": {
+    "name": "general.semangat",
+    "category": "semangat",
+    "locale": "id",
+    "patterns": [
+      "semangatin dong",
+      "aku lagi capek",
+      "lagi lelah"
+      ],
+    "responses": [
+      "hey, capek ya? sama aku juga",
+      "semangat dong"
+      ]
+  },
+  "general.galau": {
+    "name": "general.galau",
+    "category": "galau",
+    "locale": "id",
+    "patterns": [
+      "lagi galau nih",
+      "aku gabut",
+      "aku galau nih",
+      "lagi bimbang nih",
+      "aku bimbang",
+      "aku bimbang nih"
+      ],
+    "responses": [
+      "knp tuh",
+      "biarkan hujan ini menghapus gabutmu"
+      ]
+  },
+  "general.sedih": {
+    "name": "general.sedih",
+    "category": "sedih",
+    "locale": "id",
+    "patterns": [
+      "aku lagi sedih",
+      "ingin nangis",
+      "ku menangis"
+      ],
+    "responses": [
+      "cie yg lagi sedih",
+      "perlu diputerin lagu rossa gak nih?"
+      ]
+  },
+  "general.kecewa": {
+    "name": "general.kecewa",
+    "category": "kecewa",
+    "locale": "id",
+    "patterns": [
+      "aku kecewa sama kamu",
+      "aku kecewa sama dia",
+      "aku dikecewain"
+      ],
+    "responses": [
+      "cie yg lagi kecewa",
+      "darimana datangnya kecewa? dari dia yg kau anggap istimewa",
+      "sabar kawan, semua bisa diatasi"
+      ]
+  },
+  "general.curhat_perasaan": {
+    "name": "general.curhat_perasaan",
+    "category": "curhat_perasaan",
+    "locale": "id",
+    "patterns": [
+      "dia lebih milih orang itu",
+      "aku gak suka dibandingin",
+      "dia suka orang lain",
+      "dia cuek sama aku",
+      "dia tidak peduli aku"
+      ],
+    "responses": [
+      "mungkin kamu buka prioritasnya",
+      "berjuang tak hanya perihal maju saja, seperti tarik tambang, mundur pun juga bisa menang",
+      "ternyata di hatinya, kamu cuma cadangan bukan pusat pandangan",
+      "aku pernah di fase dmn saling online, tp tdk saling menyapa",
+      "ternyata dingin tak selalu perihal suhu, melainkan ttg sikapnya kepadamu",
+      "dia mah baperin doang kemudian ngilang",
+      "lebih baik tidak mengenalnya daripada harus mengenangnya ya kan",
+      "sepandai-pandainya kamu nyari topik obrolan, kalo kamu bukan yg dia mau, pasti jawabannya singkat",
+      "dia bukan sulit buka hati, dia cuma gak tertarik sama kamu",
+      "jgn terlalu keras berjuang utk seseorang yg blm tentu suka sama kamu",
+      "lucu ih, ternyata kamu bukan lagi notifikasi favorit di hpnya"
+      ]
+  },
+  "general.curhat_putus": {
+    "name": "general.curhat_putus",
+    "category": "curhat_putus",
+    "locale": "id",
+    "patterns": [
+      "aku baru putus",
+      "aku diselingkuhin",
+      "dia mutusin aku"
+      ],
+    "responses": [
+      "angkat minumanmu, kita minum bersama",
+      "cie yg lg mental breakdown"
+      ]
   }
 }
