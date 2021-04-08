@@ -169,7 +169,8 @@
       ],
     "responses": [
       "cie yg lagi sedih",
-      "perlu diputerin lagu rossa gak nih?"
+      "perlu diputerin lagu rossa gak nih?",
+      "sini aku peluk"
       ]
   },
   "general.kecewa": {
@@ -208,8 +209,7 @@
       "lebih baik tidak mengenalnya daripada harus mengenangnya ya kan",
       "sepandai-pandainya kamu nyari topik obrolan, kalo kamu bukan yg dia mau, pasti jawabannya singkat",
       "dia bukan sulit buka hati, dia cuma gak tertarik sama kamu",
-      "jgn terlalu keras berjuang utk seseorang yg blm tentu suka sama kamu",
-      "lucu ih, ternyata kamu bukan lagi notifikasi favorit di hpnya"
+      "jgn terlalu keras berjuang utk seseorang yg blm tentu suka sama kamu"
       ]
   },
   "general.curhat_putus": {
@@ -224,6 +224,62 @@
     "responses": [
       "angkat minumanmu, kita minum bersama",
       "cie yg lg mental breakdown"
+      ]
+  },
+  "general.selamat_pagi": {
+    "name": "general.curhat_putus",
+    "category": "curhat_putus",
+    "locale": "id",
+    "patterns": [
+      "selamat pagi"
+      ],
+    "responses": [
+      "selamat pagi"
+      ]
+  },
+  "general.selamat_siang": {
+    "name": "general.curhat_putus",
+    "category": "curhat_putus",
+    "locale": "id",
+    "patterns": [
+      "selamat siang"
+      ],
+    "responses": [
+      "selamat siang"
+      ]
+  },
+  "general.selamat_sore": {
+    "name": "general.curhat_putus",
+    "category": "curhat_putus",
+    "locale": "id",
+    "patterns": [
+      "selamat sore"
+      ],
+    "responses": [
+      "selamat sore"
+      ]
+  },
+  "general.selamat_malam": {
+    "name": "general.selamat_malam",
+    "category": "selamat_malam",
+    "locale": "id",
+    "patterns": [
+      "selamat malam"
+      ],
+    "responses": [
+      "selamat malam"
+      ]
+  },
+  "general.selamat": {
+    "name": "general.selamat",
+    "category": "selamat",
+    "locale": "id",
+    "patterns": [
+      "selamat ya",
+      "selamat"
+      ],
+    "responses": [
+      "makasih"
       ]
   }
 }
