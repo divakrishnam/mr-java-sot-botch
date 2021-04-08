@@ -72,11 +72,11 @@
     "category": "pujian",
     "locale": "id",
     "patterns": [
-      " pintar",
-      " cerdas",
-      " cantik",
-      " ganteng",
-      " suka kamu"
+      "pintar",
+      "cerdas",
+      "cantik",
+      "ganteng",
+      "suka kamu"
       ],
     "responses": [
       "aku tau itu",
@@ -90,15 +90,15 @@
     "category": "ejekan",
     "locale": "id",
     "patterns": [
-      " bau",
-      " idiot",
-      " jelek",
-      " tolol",
-      " bodoh",
-      " bego",
-      " bangsat",
-      " koplok",
-      " gila",
+      "bau",
+      "idiot",
+      "jelek",
+      "tolol",
+      "bodoh",
+      "bego",
+      "bangsat",
+      "koplok",
+      "gila",
       "dih bawa perasaan",
       "dih baper"
       ],
@@ -115,8 +115,8 @@
     "patterns": [
       "gombalin aku",
       "baperin aku",
-      " genit",
-      " gombal"
+      "genit",
+      "gombal"
       ],
     "responses": [
       "lagi ngerjain tugas, tp pikirannya tetap di kamu",
@@ -131,7 +131,7 @@
     "locale": "id",
     "patterns": [
       "semangatin dong",
-      " lagi capek",
+      "lagi capek",
       "lagi lelah"
       ],
     "responses": [
@@ -145,11 +145,11 @@
     "locale": "id",
     "patterns": [
       "lagi galau nih",
-      " gabut",
-      " galau nih",
+      "gabut",
+      "galau nih",
       "lagi bimbang nih",
-      " bimbang",
-      " bimbang nih"
+      "bimbang",
+      "bimbang nih"
       ],
     "responses": [
       "knp tuh",
@@ -161,9 +161,9 @@
     "category": "sedih",
     "locale": "id",
     "patterns": [
-      " lagi sedih",
+      "lagi sedih",
       "ingin nangis",
-      " menangis"
+      "menangis"
       ],
     "responses": [
       "cie yg lagi sedih",
@@ -175,9 +175,9 @@
     "category": "kecewa",
     "locale": "id",
     "patterns": [
-      " kecewa sama kamu",
-      " kecewa sama dia",
-      " dikecewain"
+      "kecewa sama kamu",
+      "kecewa sama dia",
+      "dikecewain"
       ],
     "responses": [
       "cie yg lagi kecewa",
@@ -190,11 +190,11 @@
     "category": "curhat_perasaan",
     "locale": "id",
     "patterns": [
-      " lebih milih orang itu",
-      " tidak suka dibandingin",
-      " suka orang lain",
-      " cuek  ",
-      " tidak peduli "
+      "lebih milih orang itu",
+      "tidak suka dibandingin",
+      "suka orang lain",
+      "cuek  ",
+      "tidak peduli "
       ],
     "responses": [
       "mungkin kamu buka prioritasnya",
@@ -215,9 +215,9 @@
     "category": "curhat_putus",
     "locale": "id",
     "patterns": [
-      " baru putus",
-      " diselingkuhin",
-      " putusin "
+      "baru putus",
+      "diselingkuhin",
+      "putusin "
       ],
     "responses": [
       "angkat minumanmu, kita minum bersama",
