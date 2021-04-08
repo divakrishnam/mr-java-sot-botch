@@ -76,7 +76,7 @@
       "kamu pintar",
       "anda cerdas",
       "kamu cantik",
-      "anda ganteng",
+      "kau ganteng",
       "aku suka kamu"
       ],
     "responses": [
@@ -91,15 +91,15 @@
     "category": "ejekan",
     "locale": "id",
     "patterns": [
-      "bau",
-      "idiot",
-      "jelek",
-      "tolol",
-      "bodoh",
-      "bego",
-      "bangsat",
-      "koplok",
-      "gila",
+      "kamu bau",
+      "anda idiot",
+      "kau jelek",
+      "kamu tolol",
+      "anda bodoh",
+      "kau bego",
+      "kamu bangsat",
+      "anda koplok",
+      "kau gila",
       "dih bawa perasaan",
       "dih baper"
       ],
@@ -147,10 +147,10 @@
     "locale": "id",
     "patterns": [
       "lagi galau nih",
-      "gabut",
+      "aku gabut",
       "galau nih",
       "lagi bimbang nih",
-      "bimbang",
+      "aku bimbang",
       "bimbang nih"
       ],
     "responses": [
@@ -192,11 +192,11 @@
     "category": "curhat_perasaan",
     "locale": "id",
     "patterns": [
-      "lebih milih orang itu",
-      "tidak suka dibandingin",
-      "suka orang lain",
-      "cuek  ",
-      "tidak peduli "
+      "dia lebih milih orang itu",
+      "aku tidak suka dibandingin",
+      "dia suka orang lain",
+      "dia cuek sama aku ",
+      "dia tidak peduli denganku"
       ],
     "responses": [
       "mungkin kamu buka prioritasnya",
@@ -217,9 +217,9 @@
     "category": "curhat_putus",
     "locale": "id",
     "patterns": [
-      "baru putus",
-      "diselingkuhin",
-      "putusin "
+      "aku baru putus",
+      "aku diselingkuhin",
+      "aku diputusin "
       ],
     "responses": [
       "angkat minumanmu, kita minum bersama",
