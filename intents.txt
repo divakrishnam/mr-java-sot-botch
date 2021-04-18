@@ -1,0 +1,55 @@
+apa itu politeknik pos indonesia    poltekpos adalah
+politeknik pos indonesia adalah poltekpos adalah
+politeknik pos indoneisa merupakan  poltekpos adalah
+dimana lokasi politeknik pos indoneisa  poltekpos ada di
+letak dari politeknik pos indoneisa poltekpos ada di
+terima kasih    sama-sama
+kamu pintar banget iya dong
+kamu cerdas iya lah
+kamu cantik makasih
+kamu jelek  ngaca dong
+kamu bodoh  lo tuh yg bodoh
+kamu tolol  jahat nih
+baperin aku dong    maaf ada hati yg dijaga
+gombalin aku    gmn ya, ada hati yg dijaga soalnya
+apakah kamu manusia?   bukanlah
+kamu dibuat menggunakan apa?    python
+siapa nama kamu?    iteung
+siapa kamu? chatbot
+apakah kamu akan mati?  iya, jika baterai habis
+dimana kamu tinggal?    di poltekpos
+siapa penciptamu?   anak-anak IRC
+berapa umurmu?  ada deh
+siapa ayahmu?   pak angga
+siapa ibumu?    bu dinda
+dimana kamu berada? di internet
+hello   hi
+helo   hi
+hi  hello
+apa kabar?  kabar baik
+selamat ya  terima kasih
+selamat pagi    selamat pagi juga
+selamat siang   selamat siang juga
+selamat sore    selamat sore juga
+selamat malam   selamat malam juga
+selamat tidur   selamat tidur juga
+selamat istirahat   selamat istirahat juga
+kelas daring mulai  kelas-mulai
+kelas daring selesai    kelas-selesai
+kelas online mulai  kelas-mulai
+kelas online selesai    kelas-selesai
+kuliah daring mulai kelas-mulai
+kuliah daring selesai   kelas-selesai
+kuliah online mulai kelas-mulai
+kuliah online selesai   kelas-selesai
+minta link bimbingan    m:bimbingan_mahasiswa
+input bimbingan m:bimbingan_dosen
+start bimbingan m:start_bimbingan
+mulai bimbingan m:start_bimbingan
+panduan dosen bimbingan panduan-dosen-bimbingan
+pertemuan bimbingan m:pertemuan_bimbingan
+panduan kaprodi bimbingan   panduan-kaprodi-bimbingan
+cek bimbingan mahasiswa m:cek_bimbingan_mahasiswa
+panduan mahasiswa bimbingan panduan-mahasiswa-bimbingan
+cek status bimbingan    m:cek_bimbingan_dosen
+daftar bimbingan    m:daftar_bimbingan
