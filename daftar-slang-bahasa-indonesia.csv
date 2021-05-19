@@ -29,7 +29,8 @@ muter,putar
 ambis,ambisius
 univ,universitas
 poltek,politeknik
-p,halo,
+p,halo
+test,tes
 pindai,pintar
 game,permainan
 stress,stres
@@ -570,7 +571,16 @@ cppa,siapa
 cppe,capek
 cr,cara
 cucok,cocok
-cuek,tidak acuh
+cuek,acuh
+bodo,bodoh
+bodoamat,bodoh amat
+mu,kamu
+ku,aku
+malming,malam minggu
+wanya,wa
+capek,lelah
+ngaco,sembarangan
+ngawur,sembarangan
 cuex,cuek
 cuman,Cuma
 cumi,Cuma miscall
@@ -1078,7 +1088,7 @@ ngapain,sedang apa
 ngaret,terlambat
 ngaruh,berpengaruh
 ngasih,memberikan
-ngawur,berbicara sembarangan
+ngawur,sembarangan
 ngebandel,berbuat bandel
 ngeceng,kumpul bareng-bareng
 ngegosip,bergosip
